@@ -16,7 +16,6 @@
             background-color: white !important;
         }
 
-
         img.displayed {
             display: block;
             margin: 0 auto;

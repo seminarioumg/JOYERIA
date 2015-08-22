@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Dashboard.aspx.vb" Inherits="proyecto_seminario.Dashboard" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Dashboard.aspx.vb" Inherits="Proyecto_Seminario.Dashboard" %>
 
 <!DOCTYPE html>
 

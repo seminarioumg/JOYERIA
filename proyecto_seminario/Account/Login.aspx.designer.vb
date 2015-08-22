@@ -29,5 +29,5 @@ Partial Public Class Login
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents OpenAuthLogin As Global.Proyecto_Seminario.OpenAuthProviders
+    Protected WithEvents OpenAuthLogin As Global.proyecto_seminario.OpenAuthProviders
 End Class
